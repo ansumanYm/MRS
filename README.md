@@ -1,6 +1,5 @@
 # Movie Recommender System
 
-# Movie-Recommender-System
 Web App:- 
 
 Making a movie recommender system that can recommend movies in 3 different ways: Popularity based, Content based and Collaborative filtering.
