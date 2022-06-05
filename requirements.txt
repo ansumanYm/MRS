@@ -1,2 +1,3 @@
 streamlit
 sklearn
+bz2
