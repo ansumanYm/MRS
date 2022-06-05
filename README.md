@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-Web App:- 
+Web App:- https://share.streamlit.io/ansumanym/mrs/main
 
 Making a movie recommender system that can recommend movies in 3 different ways: Popularity based, Content based and Collaborative filtering.
 
